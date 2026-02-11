@@ -1,0 +1,15 @@
+{
+  "skyText": "С ДНЕМ РОЖДЕНИЯ!",
+  "balloons": [
+    "ТЫ ЛУЧШИЙ!",
+    "ЖЕЛАЮ ПОБЕД!",
+    "LEVEL UP!",
+    "КРУТОЙ ИГРОК"
+  ],
+  "tts": {
+    "enabled": true,
+    "voiceURI": "Google русский",
+    "pitch": 0.5,
+    "rate": 1.2
+  }
+}
