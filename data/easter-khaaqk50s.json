@@ -1,0 +1,21 @@
+{
+  "endMessage": "ТЫ НАШЕЛ ВСЕ ЯЙЦА! С ПАСХОЙ!",
+  "eggs": [
+    {
+      "question": "https://media.tenor.com/Y_SFK_qwE4AAAAAi/alex-happy.gif",
+      "img": "",
+      "correct": "2",
+      "wrong": [
+        "1"
+      ]
+    },
+    {
+      "question": "https://media.tenor.com/d7O6L6NZh88AAAAi/steve-minecraft.gif",
+      "img": "",
+      "correct": "1",
+      "wrong": [
+        "2"
+      ]
+    }
+  ]
+}
