@@ -1,0 +1,141 @@
+{
+  "endMessage": "All eggs are in the basket! Happy Easter!",
+  "language": "en",
+  "eggs": [
+    {
+      "question": "The five small eggs ___ in the bag. They are on the table.",
+      "img": "",
+      "correct": "aren't",
+      "wrong": [
+        "isn't",
+        "am not"
+      ]
+    },
+    {
+      "question": "My little sister ___ young.",
+      "img": "",
+      "correct": "is",
+      "wrong": [
+        "am",
+        "are"
+      ]
+    },
+    {
+      "question": "___ I on the big chair?",
+      "img": "",
+      "correct": "Am",
+      "wrong": [
+        "Is",
+        "Are"
+      ]
+    },
+    {
+      "question": "My grandma and grandpa ___ young. They are old.",
+      "img": "",
+      "correct": "aren't",
+      "wrong": [
+        "isn't",
+        "am not"
+      ]
+    },
+    {
+      "question": "How old ___ your two sisters?",
+      "img": "",
+      "correct": "are",
+      "wrong": [
+        "is",
+        "am"
+      ]
+    },
+    {
+      "question": "The big ball ___ under the table.",
+      "img": "",
+      "correct": "is",
+      "wrong": [
+        "are",
+        "am"
+      ]
+    },
+    {
+      "question": "I ___ sad. I am very happy!",
+      "img": "",
+      "correct": "am not",
+      "wrong": [
+        "isn't",
+        "aren't"
+      ]
+    },
+    {
+      "question": "The monster is ugly. It ___ beautiful.",
+      "img": "",
+      "correct": "isn't",
+      "wrong": [
+        "aren't",
+        "am not"
+      ]
+    },
+    {
+      "question": "___ the ugly spider next to the book?",
+      "img": "",
+      "correct": "Is",
+      "wrong": [
+        "Are",
+        "Am"
+      ]
+    },
+    {
+      "question": "My two brothers ___ ten years old. They are twelve.",
+      "img": "",
+      "correct": "aren't",
+      "wrong": [
+        "isn't",
+        "am not"
+      ]
+    },
+    {
+      "question": "My father and I ___ very happy.",
+      "img": "",
+      "correct": "are",
+      "wrong": [
+        "is",
+        "am"
+      ]
+    },
+    {
+      "question": "I ___ eleven years old today!",
+      "img": "",
+      "correct": "am",
+      "wrong": [
+        "is",
+        "are"
+      ]
+    },
+    {
+      "question": "The small cat ___ in the box.",
+      "img": "",
+      "correct": "is",
+      "wrong": [
+        "are",
+        "am"
+      ]
+    },
+    {
+      "question": "___ your mother happy today?",
+      "img": "",
+      "correct": "Is",
+      "wrong": [
+        "Are",
+        "Am"
+      ]
+    },
+    {
+      "question": "___ the big dogs under the bed?",
+      "img": "",
+      "correct": "Are",
+      "wrong": [
+        "Is",
+        "Am"
+      ]
+    }
+  ]
+}
