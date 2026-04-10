@@ -1,0 +1,20 @@
+{
+  "endMessage": "ТЫ НАШЕЛ ВСЕ ЯЙЦА! С ПАСХОЙ!",
+  "language": "en",
+  "eggs": [
+    {
+      "question": "https://media.tenor.com/iY8tbOe_eEIAAAAi/sparkling-stars-stars.gif",
+      "img": "",
+      "correct": "1",
+      "wrong": [
+        "2"
+      ]
+    },
+    {
+      "question": "https://media.tenor.com/Y_SFK_qwE4AAAAAi/alex-happy.gif",
+      "img": "",
+      "correct": "2",
+      "wrong": []
+    }
+  ]
+}
