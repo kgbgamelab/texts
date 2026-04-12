@@ -1,0 +1,96 @@
+{
+  "endMessage": "Great job!",
+  "language": "en",
+  "eggs": [
+    {
+      "question": "The cat ___ black.",
+      "img": "",
+      "correct": "is",
+      "wrong": [
+        "am",
+        "are"
+      ]
+    },
+    {
+      "question": "He ___ a good friend.",
+      "img": "",
+      "correct": "is",
+      "wrong": [
+        "am",
+        "are"
+      ]
+    },
+    {
+      "question": "You ___ kind.",
+      "img": "",
+      "correct": "are",
+      "wrong": [
+        "am",
+        "is"
+      ]
+    },
+    {
+      "question": "We ___ happy.",
+      "img": "",
+      "correct": "are",
+      "wrong": [
+        "am",
+        "is"
+      ]
+    },
+    {
+      "question": "It ___ a big dog.",
+      "img": "",
+      "correct": "is",
+      "wrong": [
+        "am",
+        "are"
+      ]
+    },
+    {
+      "question": "My name ___ Ann.",
+      "img": "",
+      "correct": "is",
+      "wrong": [
+        "am",
+        "are"
+      ]
+    },
+    {
+      "question": "She ___ my sister.",
+      "img": "",
+      "correct": "is",
+      "wrong": [
+        "am",
+        "are"
+      ]
+    },
+    {
+      "question": "I ___ seven.",
+      "img": "",
+      "correct": "am",
+      "wrong": [
+        "is",
+        "are"
+      ]
+    },
+    {
+      "question": "They ___ in the park.",
+      "img": "",
+      "correct": "are",
+      "wrong": [
+        "am",
+        "is"
+      ]
+    },
+    {
+      "question": "I ___ a pupil.",
+      "img": "",
+      "correct": "am",
+      "wrong": [
+        "is",
+        "are"
+      ]
+    }
+  ]
+}
