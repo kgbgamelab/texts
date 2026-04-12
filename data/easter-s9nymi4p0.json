@@ -1,0 +1,96 @@
+{
+  "endMessage": "Great job!",
+  "language": "en",
+  "eggs": [
+    {
+      "question": "She ___ my sister.",
+      "img": "",
+      "correct": "is",
+      "wrong": [
+        "am",
+        "are"
+      ]
+    },
+    {
+      "question": "They ___ in the park.",
+      "img": "",
+      "correct": "are",
+      "wrong": [
+        "am",
+        "is"
+      ]
+    },
+    {
+      "question": "The cat ___ black.",
+      "img": "",
+      "correct": "is",
+      "wrong": [
+        "am",
+        "are"
+      ]
+    },
+    {
+      "question": "We ___ happy.",
+      "img": "",
+      "correct": "are",
+      "wrong": [
+        "am",
+        "is"
+      ]
+    },
+    {
+      "question": "He ___ a good friend.",
+      "img": "",
+      "correct": "is",
+      "wrong": [
+        "am",
+        "are"
+      ]
+    },
+    {
+      "question": "It ___ a big dog.",
+      "img": "",
+      "correct": "is",
+      "wrong": [
+        "am",
+        "are"
+      ]
+    },
+    {
+      "question": "I ___ a pupil.",
+      "img": "",
+      "correct": "am",
+      "wrong": [
+        "is",
+        "are"
+      ]
+    },
+    {
+      "question": "You ___ kind.",
+      "img": "",
+      "correct": "are",
+      "wrong": [
+        "am",
+        "is"
+      ]
+    },
+    {
+      "question": "My name ___ Ann.",
+      "img": "",
+      "correct": "is",
+      "wrong": [
+        "am",
+        "are"
+      ]
+    },
+    {
+      "question": "I ___ seven.",
+      "img": "",
+      "correct": "am",
+      "wrong": [
+        "is",
+        "are"
+      ]
+    }
+  ]
+}
