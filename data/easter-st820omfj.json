@@ -1,0 +1,106 @@
+{
+  "endMessage": "ТЫ НАШЕЛ ВСЕ ЯЙЦА! С ПАСХОЙ!",
+  "language": "en",
+  "eggs": [
+    {
+      "question": "Solar power is a great example of an ___.",
+      "img": "",
+      "correct": "alternative energy source",
+      "wrong": [
+        "artificial intelligence",
+        "landfill site",
+        "central heating"
+      ]
+    },
+    {
+      "question": "If you want to ___, you should practice speaking every single day.",
+      "img": "",
+      "correct": "acquire a second language",
+      "wrong": [
+        "watch an online tutorial",
+        "pick up the basics",
+        "do mental arithmetic"
+      ]
+    },
+    {
+      "question": "Easily influenced, changed, or controlled (about character or material).",
+      "img": "",
+      "correct": "malleable",
+      "wrong": [
+        "persistent",
+        "resilient",
+        "vulnerable"
+      ]
+    },
+    {
+      "question": "A place where rubbish is buried under the ground.",
+      "img": "",
+      "correct": "landfill site",
+      "wrong": [
+        "alternative energy source",
+        "carbon footprint",
+        "natural resource"
+      ]
+    },
+    {
+      "question": "After a long week, I just want to sit on the sofa and ___.",
+      "img": "",
+      "correct": "chill out",
+      "wrong": [
+        "wander",
+        "work up a sweat",
+        "build your confidence"
+      ]
+    },
+    {
+      "question": "She is very ___ and always studies without anyone telling her to.",
+      "img": "",
+      "correct": "self-motivated",
+      "wrong": [
+        "miserable",
+        "resentful",
+        "vulnerable"
+      ]
+    },
+    {
+      "question": "To learn the fundamental parts of a subject or skill really fast.",
+      "img": "",
+      "correct": "pick up the basics",
+      "wrong": [
+        "master",
+        "fulfill a dream",
+        "overcome a problem"
+      ]
+    },
+    {
+      "question": "Feeling angry because you have been forced to accept something you do not like.",
+      "img": "",
+      "correct": "resentful",
+      "wrong": [
+        "enthusiastic",
+        "self-motivated",
+        "resilient"
+      ]
+    },
+    {
+      "question": "A room or building that is very large and has a lot of space inside.",
+      "img": "",
+      "correct": "spacious",
+      "wrong": [
+        "temporary",
+        "environmentally friendly",
+        "challenging"
+      ]
+    },
+    {
+      "question": "The brothers finally decided to ___ after fighting for years.",
+      "img": "",
+      "correct": "make up",
+      "wrong": [
+        "fall out",
+        "chill out",
+        "throw in the towel"
+      ]
+    }
+  ]
+}
