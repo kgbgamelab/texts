@@ -1,0 +1,86 @@
+{
+  "endMessage": "Great job!",
+  "language": "en",
+  "eggs": [
+    {
+      "question": "She ___ a song.",
+      "img": "",
+      "correct": "sings",
+      "wrong": [
+        "sing"
+      ]
+    },
+    {
+      "question": "We ___ to school.",
+      "img": "",
+      "correct": "go",
+      "wrong": [
+        "goes"
+      ]
+    },
+    {
+      "question": "My mum ___ me.",
+      "img": "",
+      "correct": "helps",
+      "wrong": [
+        "help"
+      ]
+    },
+    {
+      "question": "She ___ a book.",
+      "img": "",
+      "correct": "reads",
+      "wrong": [
+        "read"
+      ]
+    },
+    {
+      "question": "They ___ in the park.",
+      "img": "",
+      "correct": "run",
+      "wrong": [
+        "runs"
+      ]
+    },
+    {
+      "question": "I ___ with my toys.",
+      "img": "",
+      "correct": "play",
+      "wrong": [
+        "plays"
+      ]
+    },
+    {
+      "question": "He ___ a picture.",
+      "img": "",
+      "correct": "draws",
+      "wrong": [
+        "draw"
+      ]
+    },
+    {
+      "question": "He ___ milk.",
+      "img": "",
+      "correct": "likes",
+      "wrong": [
+        "like"
+      ]
+    },
+    {
+      "question": "I ___ in the river.",
+      "img": "",
+      "correct": "swim",
+      "wrong": [
+        "swims"
+      ]
+    },
+    {
+      "question": "A frog ___.",
+      "img": "",
+      "correct": "jumps",
+      "wrong": [
+        "jump"
+      ]
+    }
+  ]
+}
