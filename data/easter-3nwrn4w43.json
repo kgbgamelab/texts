@@ -1,0 +1,86 @@
+{
+  "endMessage": "Great job!",
+  "language": "en",
+  "eggs": [
+    {
+      "question": "I ___ to the zoo.",
+      "img": "",
+      "correct": "went",
+      "wrong": [
+        "goed"
+      ]
+    },
+    {
+      "question": "He ___ a big elephant.",
+      "img": "",
+      "correct": "saw",
+      "wrong": [
+        "seen"
+      ]
+    },
+    {
+      "question": "They ___ very fast.",
+      "img": "",
+      "correct": "ran",
+      "wrong": [
+        "run"
+      ]
+    },
+    {
+      "question": "We ___ a nice day.",
+      "img": "",
+      "correct": "had",
+      "wrong": [
+        "haved"
+      ]
+    },
+    {
+      "question": "I ___ a letter.",
+      "img": "",
+      "correct": "wrote",
+      "wrong": [
+        "writed"
+      ]
+    },
+    {
+      "question": "He ___ his bag.",
+      "img": "",
+      "correct": "took",
+      "wrong": [
+        "taken"
+      ]
+    },
+    {
+      "question": "The bird ___ away.",
+      "img": "",
+      "correct": "flew",
+      "wrong": [
+        "flied"
+      ]
+    },
+    {
+      "question": "She ___ a snowman.",
+      "img": "",
+      "correct": "made",
+      "wrong": [
+        "maked"
+      ]
+    },
+    {
+      "question": "She ___ an apple.",
+      "img": "",
+      "correct": "ate",
+      "wrong": [
+        "eated"
+      ]
+    },
+    {
+      "question": "We ___ a funny book.",
+      "img": "",
+      "correct": "read",
+      "wrong": [
+        "readed"
+      ]
+    }
+  ]
+}
