@@ -1,0 +1,176 @@
+{
+  "endMessage": "Mission completed! You're awesome!)",
+  "language": "en",
+  "eggs": [
+    {
+      "question": "I ___ French when I was five. (speak)",
+      "img": "",
+      "correct": "could speak",
+      "wrong": [
+        "borrow / owe",
+        "couldn’t buy",
+        "couldn’t have"
+      ]
+    },
+    {
+      "question": "She ______ a shower because there wasn’t any water. (not have)",
+      "img": "",
+      "correct": "couldn’t have",
+      "wrong": [
+        "couldn’t buy",
+        "the easiest / easier",
+        "the best / better"
+      ]
+    },
+    {
+      "question": "My grandparents ______ a house when they were young because they were poor. (not buy)",
+      "img": "",
+      "correct": "couldn’t buy",
+      "wrong": [
+        "borrow / owe",
+        "couldn’t have",
+        "the best / better"
+      ]
+    },
+    {
+      "question": "Jack ______ all the questions in his English exam because they were easy. (answer)",
+      "img": "",
+      "correct": "could answer",
+      "wrong": [
+        "sell / earn",
+        "the best / better",
+        "couldn’t buy"
+      ]
+    },
+    {
+      "question": "We ______ him because he spoke very quietly. (not hear)",
+      "img": "",
+      "correct": "couldn’t hear",
+      "wrong": [
+        "the best / better",
+        "police officer",
+        "couldn’t have"
+      ]
+    },
+    {
+      "question": "Lynn ______ a bike when she was six, but I couldn’t. (ride)",
+      "img": "",
+      "correct": "could ride",
+      "wrong": [
+        "couldn’t buy",
+        "the best / better",
+        "couldn’t hear"
+      ]
+    },
+    {
+      "question": "A: I think being a firefighter is ______ job in the world! B: I don’t agree. I think a police officer’s job is ______ than a firefighter’s job.",
+      "img": "",
+      "correct": "the most dangerous / more dangerous",
+      "wrong": [
+        "volunteer",
+        "the easiest / easier",
+        "couldn’t hear"
+      ]
+    },
+    {
+      "question": "A: What is ______ way to travel? B: People think it’s travelling by plane, but I think going by train is ______ than travelling by plane.",
+      "img": "",
+      "correct": "the best / better",
+      "wrong": [
+        "could ride",
+        "could speak",
+        "sell / earn"
+      ]
+    },
+    {
+      "question": "A: I think history is ______ subject. B: I don’t agree. I think science is ______ than history.",
+      "img": "",
+      "correct": "the easiest / easier",
+      "wrong": [
+        "could answer",
+        "save / spend",
+        "could speak"
+      ]
+    },
+    {
+      "question": "A: Can you ______ me £2 for a coffee? B: Don’t worry. I can ______ for yours.",
+      "img": "",
+      "correct": "lend / pay",
+      "wrong": [
+        "surgeon",
+        "the easiest / easier",
+        "could answer"
+      ]
+    },
+    {
+      "question": "A: Those people ______ hats at the market. B: Yes, but they don’t ______ much money.",
+      "img": "",
+      "correct": "sell / earn",
+      "wrong": [
+        "borrow / owe",
+        "could ride",
+        "police officer"
+      ]
+    },
+    {
+      "question": "A: Shall I ______ my money for the future? B: No! Why don’t you ______ it now? Let’s go shopping.",
+      "img": "",
+      "correct": "save / spend",
+      "wrong": [
+        "sell / earn",
+        "borrow / owe",
+        "paramedic"
+      ]
+    },
+    {
+      "question": "A: Could I ______ some money for the bus? B: Sure, but you now ______ me £5!",
+      "img": "",
+      "correct": "borrow / owe",
+      "wrong": [
+        "the best / better",
+        "save / spend",
+        "couldn’t hear"
+      ]
+    },
+    {
+      "question": "I give my free time to help people. I don’t earn any money but I love my job. ______",
+      "img": "",
+      "correct": "volunteer",
+      "wrong": [
+        "borrow / owe",
+        "the most dangerous / more dangerous",
+        "couldn’t hear"
+      ]
+    },
+    {
+      "question": "I’ve got a difficult job in a hospital. I’m not a normal doctor or a nurse. ______",
+      "img": "",
+      "correct": "surgeon",
+      "wrong": [
+        "could speak",
+        "the most dangerous / more dangerous",
+        "sell / earn"
+      ]
+    },
+    {
+      "question": "I keep our community safe. I can arrest people who are breaking the law. ______",
+      "img": "",
+      "correct": "police officer",
+      "wrong": [
+        "volunteer",
+        "could speak",
+        "couldn’t have"
+      ]
+    },
+    {
+      "question": "I treat very ill people at home and then take them to hospital. ______",
+      "img": "",
+      "correct": "paramedic",
+      "wrong": [
+        "surgeon",
+        "could answer",
+        "the best / better"
+      ]
+    }
+  ]
+}
